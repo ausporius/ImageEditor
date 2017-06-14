@@ -1,0 +1,5 @@
+C:\Users\Lonifear\Desktop\ImageEditor-master\bin\Debug\ImageEditor.dll
+C:\Users\Lonifear\Desktop\ImageEditor-master\bin\Debug\ImageEditor.pdb
+C:\Users\Lonifear\Desktop\ImageEditor-master\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\Lonifear\Desktop\ImageEditor-master\obj\Debug\ImageEditor.dll
+C:\Users\Lonifear\Desktop\ImageEditor-master\obj\Debug\ImageEditor.pdb
